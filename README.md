@@ -1,6 +1,6 @@
 # Library Management System
 
-This respository contains my official submission for the C++ Project of the course [CS253](https://www.cse.iitk.ac.in/users/isaha/Courses/sdo25.shtml/): Software Development and Operations in Spring 2024 under the guidance of [Prof. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha/). 
+This respository contains a virtual Library Management System designed by me as a Self Project using majorly the concepts of OOPS(Object Oriented Programming System).
 
 Welcome to the Library Management System (LMS), a comprehensive C++ program built using OOP concepts and designed to manage books, users, and borrowing activities in a library. This system is developed with simplicity and functionality in mind, making it easy for librarians, students, and faculty members to interact with the library's resources.
 
